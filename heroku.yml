@@ -4,5 +4,5 @@ build: malanchess
 run:
   worker:
     command:
-      - python3 lichess-bot.py
-    image: worker
+     
+    image: 
