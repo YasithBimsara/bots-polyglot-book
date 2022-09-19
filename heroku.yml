@@ -1,6 +1,6 @@
-build:
-  docker:
-    worker: Dockerfile
+build: malanchess
+  docker: 
+    worker: Yasith Bimsara
 run:
   worker:
     command:
